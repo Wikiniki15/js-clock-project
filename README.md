@@ -34,6 +34,7 @@ Crear un reloj analógico que:
 ## Capturas de Pantalla
 
 ![Clock Demo](screenshots/clock-demo.png)
+![Clock Demo](screenshots/clock-demo2.png)
 
 ## Cómo Ejecutar el Proyecto
 
